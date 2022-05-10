@@ -1,2 +1,2 @@
-# Ideas
-There are ideas for new projects, technologies, organization, productivity, ...
+# Ідеї
+Тут розташовуються ідеї для нових проєктів, технологій, продуктивності та іншого.
